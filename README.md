@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 Adding GIT Rebase lectures.
 
 More changes in README file.
+
+Changes for stash example
